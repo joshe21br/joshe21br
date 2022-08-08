@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi, I'm Joshe-br hobby programmer and lover of technologies and artificial intelligence.
 
 
-[![Joshe21br GitHub stats](https://github-readme-stats.vercel.app/api?username=joshe21br&show_icons=true&theme=radical)
+[![Joshe21br GitHub stats](https://github-readme-stats.vercel.app/api?username=joshe21br&show_icons=true&theme=radical)]
 <!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshe21br&repo=github-readme-stats)](https://github.com/joshe21br/github-readme-stats)
 --->
